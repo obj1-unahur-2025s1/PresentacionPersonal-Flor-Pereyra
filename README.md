@@ -1,10 +1,10 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-# Programación con objetos I
+# Florencia Pereyra
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
+Hola, me llamo Florencia Pereyra, estoy estudiando la carrera Tecnicatura en Programacion 
 - Vivo en
 
 
